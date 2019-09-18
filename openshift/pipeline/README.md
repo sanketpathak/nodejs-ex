@@ -12,3 +12,5 @@ oc new-app https://github.com/sclorg/nodejs-ex
 oc new-app https://github.com/sclorg/nodejs-ex \
   --context-dir=openshift/pipeline --name nodejs-ex-pipeline
 ```
+
+#test tesxt added to see build is triggering or not
